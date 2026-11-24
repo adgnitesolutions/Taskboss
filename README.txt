@@ -1,1 +1,1 @@
-AURA V7 local intelligence. Upload all application files to the same GitHub Pages repository. Back up existing data first. No API key or paid service. Voice recognition depends on device. Local rules, not an LLM. Background alerts limited by iOS.
+AURA 7.1 Friendly Edition. Back up your tasks, upload the six application files to the existing GitHub Pages repository, then reopen online. Local rule-based conversation; no cloud AI. Voice and reminders depend on browser support.
